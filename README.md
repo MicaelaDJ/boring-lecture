@@ -2,7 +2,7 @@
 
 #### A webpage practicing simple css styling, 1/9/2019
 
-#### By Micaela Jawor, Jimmy Zebroski
+#### By Micaela Jawor, Jimmy Zebroski, Sam Stoia
 
 ## Description
 
@@ -23,6 +23,7 @@ No known bugs
 email:
   Micaela Jawor: micaelajawor@yahoo.com
   Jimmy Zebroski: zebrozkii@gmail.com
+  Sam Stoia: samstoia@gmail.com
 
 ## Technologies Used
 
@@ -30,6 +31,6 @@ Atom
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_Micaela Jawor, Jimmy Zebroski, Sam Stoia_**
