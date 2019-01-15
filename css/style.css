@@ -1,4 +1,4 @@
-h2.intro{
+h2.header{
   font-family: fantasy;
   color: purple;
   font-style: italic;
@@ -21,4 +21,18 @@ div.fancy {
 span.boring {
   font-family: 'Inconsolata', monospace;
   color: grey;
+}
+
+.intro {
+  border: 2px solid green;
+}
+
+.intro .highlight{
+  background-color: yellow;
+  background-image: linear-gradient(to right, #ffe359 0%,#fff2ac 100%);
+}
+
+#stuff {
+  font-size: 25px;
+  color: lightblue;
 }
